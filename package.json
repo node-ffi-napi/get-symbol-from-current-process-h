@@ -10,7 +10,7 @@
     "xplat",
     "napi"
   ],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/node-ffi-napi/get-symbol-from-current-process-h.git"
