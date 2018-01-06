@@ -2,6 +2,8 @@ get-symbol-from-current-process-h
 =================================
 ### C function to get a symbol from the current process
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/node-ffi-napi/get-symbol-from-current-process-h.svg)](https://greenkeeper.io/)
+
 [![NPM Version](https://img.shields.io/npm/v/get-symbol-from-current-process-h.svg?style=flat)](https://npmjs.org/package/get-symbol-from-current-process-h)
 [![NPM Downloads](https://img.shields.io/npm/dm/get-symbol-from-current-process-h.svg?style=flat)](https://npmjs.org/package/get-symbol-from-current-process-h)
 [![Build Status](https://travis-ci.org/node-ffi-napi/get-symbol-from-current-process-h.svg?style=flat&branch=master)](https://travis-ci.org/node-ffi-napi/get-symbol-from-current-process-h?branch=master)
